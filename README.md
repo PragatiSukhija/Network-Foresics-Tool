@@ -6,6 +6,6 @@ This is a tool purely written in python to capture traffic on one's network and 
 2. Data Bases: Mysql, SQLite 
 3. Python: 2.7
 
-# run 
+# Run 
 python Gui.py
 
